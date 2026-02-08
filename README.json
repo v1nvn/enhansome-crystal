@@ -649,7 +649,7 @@
             "last_commit": "2025-02-11T13:54:18Z",
             "owner": "mjblack",
             "repo": "win32cr",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -845,10 +845,10 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-01-27T19:32:29Z",
+            "last_commit": "2026-02-07T14:02:00Z",
             "owner": "vitobotta",
             "repo": "hetzner-k3s",
-            "stars": 3254
+            "stars": 3259
           }
         },
         {
@@ -1683,7 +1683,7 @@
             "last_commit": "2026-01-18T18:07:49Z",
             "owner": "Sija",
             "repo": "debug.cr",
-            "stars": 102
+            "stars": 103
           }
         }
       ],
@@ -1978,7 +1978,7 @@
             "last_commit": "2025-03-15T21:07:24Z",
             "owner": "crystal-loot",
             "repo": "exception_page",
-            "stars": 71
+            "stars": 72
           }
         },
         {
@@ -2250,7 +2250,7 @@
             "last_commit": "2024-02-19T04:35:11Z",
             "owner": "grkek",
             "repo": "iu",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -2297,7 +2297,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-06T20:19:36Z",
+            "last_commit": "2026-02-07T21:11:07Z",
             "owner": "sbsoftware",
             "repo": "to_html.cr",
             "stars": 16
@@ -2313,7 +2313,7 @@
             "last_commit": "2025-01-14T06:37:01Z",
             "owner": "shootingfly",
             "repo": "water",
-            "stars": 29
+            "stars": 30
           }
         }
       ],
@@ -2661,7 +2661,7 @@
             "last_commit": "2026-02-04T19:39:49Z",
             "owner": "mint-lang",
             "repo": "mint",
-            "stars": 4242
+            "stars": 4243
           }
         },
         {
@@ -2863,7 +2863,7 @@
             "last_commit": "2025-12-31T09:30:10Z",
             "owner": "NeuraLegion",
             "repo": "shainet",
-            "stars": 193
+            "stars": 194
           }
         }
       ],
@@ -3020,7 +3020,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-02-01T01:06:28Z",
+            "last_commit": "2026-02-08T01:15:13Z",
             "owner": "isaced",
             "repo": "crystal-web-framework-stars",
             "stars": 74
@@ -3581,7 +3581,7 @@
             "last_commit": "2025-09-08T07:26:35Z",
             "owner": "anykeyh",
             "repo": "clear",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -3594,7 +3594,7 @@
             "last_commit": "2025-11-01T06:18:16Z",
             "owner": "Crecto",
             "repo": "crecto",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -4002,7 +4002,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-06T05:40:27Z",
+            "last_commit": "2026-02-08T02:44:35Z",
             "owner": "owasp-noir",
             "repo": "noir",
             "stars": 1097
@@ -4015,7 +4015,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-01-01T11:43:14Z",
+            "last_commit": "2026-02-08T02:45:06Z",
             "owner": "hahwul",
             "repo": "xssmaze",
             "stars": 30
@@ -4274,7 +4274,7 @@
             "last_commit": "2025-06-20T22:21:27Z",
             "owner": "luckyframework",
             "repo": "lucky_flow",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -4654,7 +4654,7 @@
             "last_commit": "2025-12-12T08:01:16Z",
             "owner": "confact",
             "repo": "stripe.cr",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -4793,7 +4793,7 @@
           "repo_info": {
             "archived": false,
             "language": "Crystal",
-            "last_commit": "2026-02-07T00:02:57Z",
+            "last_commit": "2026-02-07T15:48:49Z",
             "owner": "athena-framework",
             "repo": "athena",
             "stars": 226
@@ -4822,7 +4822,7 @@
             "last_commit": "2026-02-06T11:13:24Z",
             "owner": "kemalcr",
             "repo": "kemal",
-            "stars": 3827
+            "stars": 3828
           }
         },
         {
@@ -4835,7 +4835,7 @@
             "last_commit": "2026-01-22T20:44:12Z",
             "owner": "luckyframework",
             "repo": "lucky",
-            "stars": 2700
+            "stars": 2701
           }
         },
         {
@@ -4848,7 +4848,7 @@
             "last_commit": "2026-02-05T13:00:46Z",
             "owner": "martenframework",
             "repo": "marten",
-            "stars": 464
+            "stars": 465
           }
         },
         {
@@ -5296,10 +5296,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T06:59:36.833Z",
+    "last_updated": "2026-02-08T04:26:33.639Z",
     "original_repository": "veelenga/awesome-crystal",
     "source_repository": "v1nvn/enhansome-crystal",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Tools"
   }
 }
